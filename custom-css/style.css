@@ -1,0 +1,31 @@
+.custom-bg-cursol{
+    background-color: #FEEAE9
+}
+.btn-buy{
+    background-image: linear-gradient(#FF589B, #FF136F);
+    width: 168px;
+    height: 52px;
+    color: white;
+    font-size: 18px;
+    border-radius: 6px;
+    border: 0px;
+}
+.bg-first{
+    background-image: linear-gradient(#FF9C35 , #FFD019);
+}
+.bg-second{
+    background-image: linear-gradient(#FF589B ,#FF136F);
+}
+.bg-third{
+    background-image: linear-gradient(#4289FF ,#3F07F8);
+}
+.bg-subscribe{
+    background-color: #FFF2F1;
+}
+.catagories img{
+    width: 100px;
+}
+.size{
+    width: 358px;
+    height: 120px;
+}
